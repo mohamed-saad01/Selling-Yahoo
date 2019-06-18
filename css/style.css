@@ -1,0 +1,39 @@
+body{
+    padding-top: 20px;
+    font-family: 'Montserrat', sans-serif;
+
+
+}
+.nav-justified {
+    background-color: #eee;
+    border-radius: 5px;
+}
+
+.nav-justified > li > a{
+    padding: 15px 0;
+    color: #777;
+    text-align: center;
+    background-color: #e5e5e5;
+}
+.jumbotron {
+    text-align: center;
+    margin-top: 15px
+}
+
+.jumbotron > a{
+    
+    padding: 15px 25px;
+    
+}
+.centrow {
+    text-align: center;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: 300;
+}
+
+p{
+    padding-top: 10px;
+}
